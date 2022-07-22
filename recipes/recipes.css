@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Alegreya:ital,wght@1,500&display=swap');
+
+body {
+    text-align: center;
+    background-color: #F5EDDC;
+}
+
+h1 {
+    font-family: 'Alegreya', serif;
+    font-size: 45px;
+}
+
+img {
+    border-radius: 10px;
+    width: 450px;
+    height: auto;
+    margin-bottom: 35px;
+}
+
