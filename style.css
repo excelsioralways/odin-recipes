@@ -15,8 +15,23 @@ img {
     width: 500px;
     height: auto;
     margin-bottom: 35px;
+    border: 0.5px solid #343c3c ;
 }
 
 li {
     list-style: none;
+    margin-bottom: 14px;
+}
+
+a {
+    text-decoration-color: black;
+    color: #3F4E4F;
+    font-size: 25px;
+}
+
+a:hover {
+    text-decoration-color: rgb(255, 199, 45);
+    text-decoration-thickness: 5px;
+    font-size: 30px;
+    color: #343c3c;
 }
