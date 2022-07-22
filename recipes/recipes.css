@@ -17,3 +17,23 @@ img {
     margin-bottom: 35px;
 }
 
+h2 {
+    font-size: 30px;
+    text-decoration: underline;
+}
+
+p {
+    font-size: 18px;
+}
+
+h3 {
+    font-size: 30px;
+    text-decoration: underline;
+}
+
+li {
+    list-style: none;
+    margin-bottom: 5.5px;
+    font-size: 18px;
+}
+
